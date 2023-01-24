@@ -31,7 +31,7 @@ function Cal() {
 
       <div className='card mt-3 w-50' >
         <div className="row justify-content-center align-items-center g-2 mt-3">
-          Calculator
+          Calculator ..
         </div>
         <div className="row justify-content-center align-items-center g-2">
           <div className='col-9 ' id="res">
